@@ -43,4 +43,27 @@
 p {
   padding: 1rem;
 }
+
+a {
+  text-decoration: none;
+}
+
+input {
+  padding: 0.2rem;
+}
+
+button {
+  border: none;
+  background: #4444ff;
+  padding: 0.2rem 1rem;
+  margin: 0.2rem;
+  color: aliceblue;
+  font-weight: bolder;
+  border-radius: 1rem;
+  border: 2px solid white;
+}
+
+button a {
+  color: aliceblue;
+}
 </style>
