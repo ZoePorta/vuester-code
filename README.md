@@ -1,5 +1,10 @@
 # vuesterslayer
 
+Work in progress
+
+[Live on Netlify: https://zoe-vuesterslayer.netlify.app/](https://zoe-vuesterslayer.netlify.app/)
+
+
 ## Project setup
 ```
 npm install
